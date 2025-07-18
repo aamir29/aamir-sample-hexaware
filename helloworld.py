@@ -1,2 +1,2 @@
 print("Hello, World!")
-ptint("Sample")
+print("Sample")
